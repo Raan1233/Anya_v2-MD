@@ -63,18 +63,18 @@ global.message = {
 },
 
 module.exports = {
-  botname: process.env.BotName || "Queen Anya", 
-  author: process.env.Author || "@PikaBotz",
-  packname: process.env.PackName || "Queen Anya v2 MD",
-  socialLink: process.env.Web || "https://github.com/PikaBotz",
-  footer: process.env.Footer || "© Queen Anya Bot",
+  botname: process.env.BotName || "PINGZ STORE", 
+  author: process.env.Author || "PINGZ STORE",
+  packname: process.env.PackName || "PINGZ BOT",
+  socialLink: process.env.Web || "https://chat.whatsapp.com/JHKn3c6u2Pj5hh7NRLF2b2",
+  footer: process.env.Footer || "©PINGZ Bot",
   prefa: process.env.Prefix || ['-'],
   themeemoji: process.env.ThemeEmoji || "🎐",
   ownername: process.env.Owner_Name || "Pika~Kun",
-  ownernumber: process.env.Owner_Number || "916900904828",
-  instagramId: process.env.Insta || "8.08_only_mine",
+  ownernumber: process.env.Owner_Number || "6285882158638",
+  instagramId: process.env.Insta || "_Xyranzahyx",
   warns: process.env.Warns_Limits || 3,
-  mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
+  mongoUrl: process.env.MongoDB || "-",
   welcome: process.env.Welcome_Msg || '*@$user* joined this group today as $membersth member.\n\n_$prefix welcome off to disable this message._',
   left: process.env.Left_Msg || 'Ex-member *@$user* is no longer available in this group chat.\n\n_$prefix goodbye off to disable this message._',
   promote: process.env.Promote_Msg || '*@$user* has been promoted as an admin in this group.\n\n_$prefix promotem off to disable this message._',
@@ -105,18 +105,18 @@ module.exports = {
 
 
 // Ignore them 👇🏻
-global.botname = process.env.BotName || "Queen Anya" 
-global.author = process.env.Author || "@PikaBotz" 
-global.packname = process.env.PackName || "Queen Anya v2 MD" 
-global.myweb = process.env.Web || "https://github.com/PikaBotz" 
-global.footer = process.env.Footer || "© Queen Anya Bot" 
+global.botname = process.env.BotName || "PINGZ STORE" 
+global.author = process.env.Author || "@PINGZ BOT" 
+global.packname = process.env.PackName || "PINGZ BOT" 
+global.myweb = process.env.Web || "https://chat.whatsapp.com/JHKn3c6u2Pj5hh7NRLF2b2" 
+global.footer = process.env.Footer || "© PINGZ Bot" 
 global.prefa = process.env.Prefix || ['-'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
-global.ownername = process.env.Owner_Name || "Pika~Kun" 
-global.ownernumber = process.env.Owner_Number || "916900904828" 
-global.adress = process.env.Continent || "Asia, India, Assam" 
-global.timezone = process.env.TimeZone || "Asia/Kolkata" 
-global.instagramId = process.env.Insta || "8.08_only_mine" 
+global.ownername = process.env.Owner_Name || "PINGZ" 
+global.ownernumber = process.env.Owner_Number || "6285882158638" 
+global.adress = process.env.Continent || "Asia, INDONESIA" 
+global.timezone = process.env.TimeZone || "INDONESIA/WIB" 
+global.instagramId = process.env.Insta || "_Xyranzahyx" 
 global.email = process.env.Email_Id || "example@example.com" 
   
 //--------------- Tip ----------------\\
